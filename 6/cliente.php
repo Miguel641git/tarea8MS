@@ -4,6 +4,7 @@ class Cliente {
 
     private $conn;
 
+    //Karen
     // Constructor que establece la conexión a la base de datos
     public function __construct()
     {
